@@ -1,6 +1,6 @@
 # Social Leak
 
-A modern tool to find usernames across social networks.
+Find out who you hate 
 
 ## Supported Social Networks
 
