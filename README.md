@@ -37,7 +37,6 @@ Enter the username you want to search for when prompted.
 ## Requirements 📋
 
 - Python 3.6 or higher
-- Internet connection
 - Required Python libraries:
   ```
   requests==2.31.0
@@ -49,7 +48,6 @@ Enter the username you want to search for when prompted.
 Scan results can be saved in the `results/` folder in txt format, including:
 - Searched username
 - Links to found profiles
-- Date and time of the scan
 
 ## Limitations 📌
 
