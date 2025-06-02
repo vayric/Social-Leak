@@ -4,18 +4,7 @@ Find out who you hate
 
 ## Supported Social Networks
 
-- Instagram
-- Facebook
-- Twitter
-- GitHub
-- LinkedIn
-- TikTok
-- YouTube
-- Reddit
-- Steam
-- Xbox
-- PlayStation
-- And more...
+100+ social 
 
 ## Installation
 
